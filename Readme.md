@@ -36,7 +36,7 @@ pip install pygame
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ADISHA2003/python_matrix_screensaver.git
-   cd matrix-screensaver
+   cd python_matrix_screensaver
    ```
 
 2. **Convert the Script to an Executable**:
@@ -69,7 +69,7 @@ pip install pygame
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ADISHA2003/python_matrix_screensaver.git
-   cd matrix-screensaver
+   cd python_matrix_screensaver
    ```
 
 2. **Install Dependencies**:
@@ -92,7 +92,7 @@ pip install pygame
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ADISHA2003/python_matrix_screensaver.git
-   cd matrix-screensaver
+   cd python_matrix_screensaver
    ```
 
 2. **Install Dependencies**:
